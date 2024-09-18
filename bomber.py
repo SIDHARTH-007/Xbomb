@@ -81,7 +81,7 @@ def bann_text():
 
 def check_intr():
     try:
-        requests.get("https://motherfuckingwebsite.com")
+        requests.get("NIGGA!!")
     except Exception:
         bann_text()
         mesgdcrt.FailureMessage("Poor internet connection detected")
@@ -122,11 +122,11 @@ def do_zip_update():
         except Exception:
             mesgdcrt.FailureMessage("Error occured while extracting !!")
     if success:
-        mesgdcrt.SuccessMessage("TBomb was updated to the latest version")
+        mesgdcrt.SuccessMessage("XBomb was updated to the latest version")
         mesgdcrt.GeneralMessage(
             "Please run the script again to load the latest version")
     else:
-        mesgdcrt.FailureMessage("Unable to update TBomb.")
+        mesgdcrt.FailureMessage("Unable to update XBomb.")
         mesgdcrt.WarningMessage(
             "Grab The Latest one From https://github.com/TheSpeedX/TBomb.git")
 
@@ -153,11 +153,11 @@ def do_git_update():
     print("\n")
 
     if success:
-        mesgdcrt.SuccessMessage("TBomb was updated to the latest version")
+        mesgdcrt.SuccessMessage("XBomb was updated to the latest version")
         mesgdcrt.GeneralMessage(
             "Please run the script again to load the latest version")
     else:
-        mesgdcrt.FailureMessage("Unable to update TBomb.")
+        mesgdcrt.FailureMessage("Unable to update XBomb.")
         mesgdcrt.WarningMessage("Make Sure To Install 'git' ")
         mesgdcrt.GeneralMessage("Then run command:")
         print(
@@ -187,7 +187,7 @@ def check_for_updates():
         mesgdcrt.GeneralMessage("Starting update...")
         update()
     else:
-        mesgdcrt.SuccessMessage("TBomb is up-to-date")
+        mesgdcrt.SuccessMessage("XBomb is up-to-date")
         mesgdcrt.GeneralMessage("Starting TBomb")
 
 
@@ -250,7 +250,7 @@ def pretty_print(cc, target, success, failed):
     mesgdcrt.GeneralMessage("Failed       : " + str(failed))
     mesgdcrt.WarningMessage(
         "This tool was made for fun and research purposes only")
-    mesgdcrt.SuccessMessage("TBomb was created by SpeedX")
+    mesgdcrt.SuccessMessage("XBomb was created by G-BYTES")
 
 
 def workernode(mode, cc, target, count, delay, max_threads):
@@ -371,7 +371,7 @@ def selectnode(mode="sms"):
 
 mesgdcrt = MessageDecorator("icon")
 if sys.version_info[0] != 3:
-    mesgdcrt.FailureMessage("TBomb will work only in Python v3")
+    mesgdcrt.FailureMessage("XBomb will work only in Python v3")
     sys.exit()
 
 try:
