@@ -124,65 +124,85 @@ The package `toilet` cannot be installed yet on macOS. But Xbomb does still work
 
 
 ## FAQ
+<details>
+  <summary> Is there any Xbomb Website/App ? </summary>
+  <br>
+  There is no official website/app yet.The only official releases of Xbomb are published in [Github](https://github.com/SIDHARTH-007/Xbomb).
+</details>
 
-**Q:** Is there any Xbomb Website/App ?
-
-**A:** There is no official website/app yet.The only official releases of Xbomb are published in [Github](https://github.com/SIDHARTH-007/Xbomb).
-##
-**Q:** Poor Internet Connection Detected:
-
-**A:** Here are a few stuff you can try:
+<details>
+  <summary> Poor Internet Connection Detected: </summary>
+  <br>
+  Here are a few stuff you can try:
 - Check your connection.
 - Make sure `openssl` is installed.
 - Try to `ping` any remote site/address to be sure.
 - Try to reinstall if nothing works.
-##
-**Q:** Do you support "X" Country?
+</details>
 
-**A:** Most Countries are supported for SMS and only India for calls. The SMS delivery rate might be different for different countries.
-##
-**Q:** Can you add support for "X" Country?
+<details>
+  <summary> Do you support "X" Country? </summary>
+  <br>
+  Most Countries are supported for SMS and only India for calls. The SMS delivery rate might be different for different countries.
+</details>
 
-**A:** We do what we can, but we cannot promise. Please stay tuned for future support. If you are ready to help then maybe we can do faster.
-##
-**Q:** Why is the limit so low?
+<details>
+  <summary> Can you add support for "X" Country? </summary>
+  <br>
+  We do what we can, but we cannot promise. Please stay tuned for future support. If you are ready to help then maybe we can do faster.
+</details>
 
-**A:** Due the amount of requests, the APIs can die. To prevent a bigger outtake of Xbomb, it has been limited. 
-##
-**Q:** Help, I got the error that the requirements aren't installed, even when the installer has successfully reached the main menu
+<details>
+  <summary> Why is the limit so low? </summary>
+  <br>
+  Due the amount of requests, the APIs can die. To prevent a bigger outtake of Xbomb, it has been limited.
+</details>
 
-**A:** First, make sure `python3` and `pip3` are installed. 
-- The Easy Method:  
-   `pip3 install Xbomb`  
-    Then execute by simply running `Xbomb`
-- The Git Method:  
-    Clone the repo and Switch to the Xbomb Directory and execute this command:  
-    `pip3 install -r requirements.txt`
-##
-**Q:** Help, It says `command 'Xbomb' not found` after installing PIP version!
+<details>
+  <summary> Help, I got the error that the requirements aren't installed, even when the installer has successfully reached the main menu </summary>
+  <br>
+  First, make sure <b>python3</b> and <b>pip3</b> are installed. <br>
+  - The Easy Method:  <br>
+     <b>pip3 install Xbomb</b> <br> 
+      Then execute by simply running <b>Xbomb</b> <br>
+  - The Git Method:  <br>
+      Clone the repo and Switch to the Xbomb Directory and execute this command:  <br>
+     <b>pip3 install -r requirements.txt</b> <br>
+</details>
 
-**A:** Try running `sudo pip3 install Xbomb`
-##
-**Q:** Help, I can't execute Xbomb.sh!
+<details>
+  <summary> Help, It says `command 'Xbomb' not found` after installing PIP version! </summary>
+  <br>
+  Try running <b>sudo pip3 install Xbomb</b>
+</details>
 
-**A:** Run Xbomb Directly with `python3 bomber.py`
-##
-**Q:** Should I use VPN? 
+<details>
+  <summary> Help, I can't execute Xbomb.sh! </summary>
+  <br>
+  Run Xbomb Directly with `python3 bomber.py`
+</details>
 
-**A:** No, If you are facing high fail rate as Xbomb can fail due the high response time or API restrictions.
-##
-**Q:** How to get protection ?
+<details>
+  <summary> Should I use VPN? </summary>
+  <br>
+  No, If you are facing high fail rate as Xbomb can fail due the high response time or API restrictions.
+</details>
 
-**A:** Use OTP blockers and activate DND.
-##
-**Q:** Why does it fail?
+<details>
+  <summary> How to get protection ? </summary>
+  <br>
+  Use OTP blockers and activate DND.
+</details>
 
-**A:** Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.
-##
+<details>
+  <summary> Why does it fail? </summary>
+  <br>
+  Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.
+</details>
+
 ### Support
-
 For Queries: [Discord Server](https://discord.gg/kQ6GtP7fE5)  
 Contributions, issues, and feature requests are welcome!  
 Give a ★ if you like this project!
 
-<p align="right"> Last FAQ Update: `19.09.2024` </p>
+<p align="right"> Last FAQ Update: <b>19.09.2024</b> </p>
