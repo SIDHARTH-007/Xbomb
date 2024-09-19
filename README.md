@@ -11,11 +11,11 @@
 
 ## Application:
 
-> Linux/Ubuntu
-> Termux
-> Github Codespace
-> Replit
-> other apps can be also used to run this project
+> Linux/Ubuntu   
+> Termux   
+> Github Codespace   
+> Replit   
+> other apps can be also used to run this project   
 
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this script
@@ -39,17 +39,18 @@
 ## Usage:
 
 ### Install by linux(Commonly Used)
-> `git clone https://github.com/SIDHARTH-007/Xbomb.git`
-> `python3 bomber.py`
-> fill the details
-> target bombed
+> `git clone https://github.com/SIDHARTH-007/Xbomb.git`   
+> `cd Xbomb`   
+> `python3 bomber.py`   
+> fill the details   
+> target bombed   
 
 ### Install from GIT Codespace
-> Fork the repo `https://github.com/SIDHARTH-007/Xbomb`
-> Create a Codespace
-> Open Terminal
-> Install Python Extension
-> Command/Type in Terminal `python3 bomber.py`
+> Fork the repo `https://github.com/SIDHARTH-007/Xbomb`   
+> Create a Codespace   
+> Open Terminal   
+> Install Python Extension   
+> Command/Type in Terminal `python3 bomber.py`   
 
 
 #### For Termux
@@ -78,15 +79,6 @@ chmod +x Xbomb.sh
 ./Xbomb.sh
 ```
 
-#### For Debian-based GNU/Linux distributions
-
-To use the application, type in the following commands in GNU/Linux terminal.
-```shell script
-sudo apt install git
-git clone https://github.com/SIDHARTH-007/Xbomb.git
-cd Xbomb
-bash Xbomb.sh
-```
 
 #### For MacOS
 
@@ -117,7 +109,7 @@ The package `toilet` cannot be installed yet on macOS. But Xbomb does still work
 
 
 ## Contributors
-> - TheSpeedX as the owner of [Xbomb](https://github.com/TheSpeedX/Xbomb)   
+> - TheSpeedX as the owner of [Tbomb](https://github.com/TheSpeedX/Tbomb)   
 >   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/TheSpeedX
 >   &nbsp;
 > - SIDHARTH as the Owner of this project   
@@ -126,7 +118,7 @@ The package `toilet` cannot be installed yet on macOS. But Xbomb does still work
 > - ShashwatSen as the Helper of this project   
 >   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/ShashwatSen
 >   &nbsp;
-> - Tiger as the Helper of this preoject
+> - Tiger as the Helper of this preoject   
 >   &nbsp;&nbsp;&nbsp;&nbsp; Github: https://github.com/innocenttigerbugger
 >   &nbsp; 
 
