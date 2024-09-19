@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/SIDHARTH-007/Xbomb"><img src="https://cdn.discordapp.com/icons/1265667660452987000/251ecbc4016eca9978c3b75c653a6c8f.webp" alt="Xbomb"></a>
+  <a href="https://discord.gg/kQ6GtP7fE5"><img src="https://cdn.discordapp.com/icons/1265667660452987000/251ecbc4016eca9978c3b75c653a6c8f.webp" alt="Xbomb"></a>
   <br>
   Xbomb v1.0.0
   <br>
@@ -8,15 +8,30 @@
 
 
 <p align="center">A free and open-source SMS/Call bombing application</p>
+<p align="center">
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#application" target="blank">Applications</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#" target="blank">Point2Remember</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#features" target="blank">Features</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#usage">Usage</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#contributors">Contributors</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#faq">FAQ</a>
+    ·
+    <a href="https://github.com/SIDHARTH-007/Xbomb/blob/master/README.md#support">Support</a>
+</p>
 
-## Application:
-
+## Applications:
 > Linux/Ubuntu   
 > Termux   
 > Github Codespace   
 > Replit   
 > other apps can be also used to run this project   
 
+## Pinned Points:
 - The application requires active internet connection to contact the APIs
 - You would not be charged for any SMS/calls dispatched as a consequence of this script
 - For best performance, use single thread with considerable delay time
